@@ -59,4 +59,4 @@ def bot_answer_to(a_question)
   end
 end
 
-puts bot_answer_to("summer")
+puts bot_answer_to(a_question)
