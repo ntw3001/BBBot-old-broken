@@ -58,5 +58,6 @@ def bot_answer_to(a_question)
     "Please just say Spring, Summer, Autumn, Winter, or Weather"
   end
 end
+a_question = gets.chomp
 
 puts bot_answer_to(a_question)
